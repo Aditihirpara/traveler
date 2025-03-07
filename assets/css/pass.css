@@ -1,0 +1,31 @@
+
+
+.pass{
+    width: 520px;
+    height: 350px;
+    border: 2px solid black;
+   margin: 0 auto;
+    background-color: rgb(160, 160, 19);
+}
+h1,h2{
+   margin-left: 20%;
+
+}
+.b1{
+    margin-top: 15px;
+    margin-left: 12px;
+    font-size: 20px;
+    
+}
+
+
+p{
+    font-size: 1.5rem;
+    font-weight: bold;
+    line-height: 30px;
+}
+h5{
+    font-size: 10px;
+     
+}
+
